@@ -1,2 +1,4 @@
-# ubuntu-bounce-host
-A simple container that supports bouncing a login to another host via ssh
+# Ubuntu Bounce Host
+
+This is a minimal Ubuntu container that adds ssh-client to support
+building a shell that bounces a user via ssh to another host.
